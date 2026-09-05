@@ -59,7 +59,17 @@ turning a phone/tablet into a self-contained marine traffic display.
 
 ## Screenshots
 
-<screenshots to come >
+<p align="center">
+  <img src="app/screenshots/MapPopulated.jpg" width="270" />
+  <img src="app/screenshots/DataInOSMAND.jpg" width="270" />
+  <img src="app/screenshots/SelectedShip.jpg" width="270" />
+</p>
+
+<p align="center">
+  <img src="app/screenshots/StartupScreen.png" width="270" />
+  <img src="app/screenshots/AppSettings.jpg" width="270" />
+  <img src="app/screenshots/Running.jpg" width="270" />
+</p>
 
 ## Disclaimer
 AI was used to assist in this project.  It was still proofed by a human with mediocre programming skills. Take that as you will. 
